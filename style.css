@@ -86,9 +86,15 @@ article img{
   max-width: 450px;
   max-height: 50px;
 }
-.href{
+ul .websitelinks{
 text-decoration: none;
 }
-.href:hover{
+ul .websitelinks:hover{
   color:white
+}
+.banenlink{
+  text-decoration: none;
+}
+.banenlink:hover{
+    color:white
 }
