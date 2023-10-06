@@ -2,7 +2,7 @@ ul.link {
   list-style-type: none;
   margin: 0px;
   overflow: hidden;
-  background-color:gray;
+  background-color: gray;
 }
 
 nav li {
@@ -30,26 +30,26 @@ nav li a:hover {
 .hobbies{
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   overflow: hidden;
 }
 
 html{
-  background-image: url("/Images/dark-abstract.jpg");
+  background-image: url("Images/dark-abstract.jpg");
   background-size: cover;
   background-position: center;
 }
 
 body{
-  background-image: url("/Images/dark-abstract.jpg");
+  background-image: url("Images/dark-abstract.jpg");
   background-size: cover;
   background-position: center;
   font-size: 25px;
+  color:white;
 } 
 
 table, th, tr, td{ 
   font-size: 30px;
-  color: white;
   border: 5px solid gray;
 } 
 
@@ -67,12 +67,22 @@ header{
   text-align: center;
   width: 100%;
   min-height: 80px;
-  margin-top: -30px;
 }
 
 main{
   width: 100%;
   font-size: 25px; 
-  min-height: 400px;
-  
+  min-height: 400px; 
+}
+footer{
+  font-size: 15px;
+}
+article img{
+  max-width: 350px;
+  max-height: 350px;
+  padding-left: 20px;
+}
+ nav img{
+  max-width: 450px;
+  max-height: 50px;
 }
