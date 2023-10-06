@@ -87,14 +87,15 @@ article img{
   max-height: 50px;
 }
 ul .websitelinks{
-text-decoration: none;
+  text-decoration: none;
+  color:blue;
 }
-ul .websitelinks:hover{
+.websitelinks:hover{
   color:white
 }
 .banenlink{
   text-decoration: none;
 }
 .banenlink:hover{
-    color:white
+  color:white
 }
