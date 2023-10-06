@@ -86,16 +86,16 @@ article img{
   max-width: 450px;
   max-height: 50px;
 }
-ul .websitelinks{
+.websitelinks{
   text-decoration: none;
-  color:blue;
+  color: blue;
 }
 .websitelinks:hover{
-  color:white
+  color:rgb(126, 126, 126)
 }
 .banenlink{
   text-decoration: none;
 }
 .banenlink:hover{
-  color:white
+  color: grey
 }
