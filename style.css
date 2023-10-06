@@ -86,3 +86,9 @@ article img{
   max-width: 450px;
   max-height: 50px;
 }
+.href{
+text-decoration: none;
+}
+.href:hover{
+  color:white
+}
